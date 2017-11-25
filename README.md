@@ -41,6 +41,7 @@ If it's working, you should see "Ready!" in the Glitch logs.
 
 * <https://glitch.com/~discord-bot-example>
 * <https://abal.moe/Eris/>
+    - <https://github.com/abalabahaha/eris/blob/master/examples/basicCommands.js>
 * <https://anidiotsguide.gitbooks.io/discord-js-bot-guide/other-guides/hosting-on-glitchcom.html>
 * <https://watch-json.glitch.me/>
 * <https://momentjs.com/timezone/>
