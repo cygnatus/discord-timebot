@@ -1,7 +1,8 @@
 Timebot
 =======
-
 ![Example output in Discord](https://cdn.glitch.com/e2c24270-97c5-4c23-9d94-6ca0054e4928%2Foutput.png?1511624557883)
+
+With Timebot, you can type `!timebot` in Discord to get the current time in three Western timezones: CET, ET, and PT.
 
 ## Requirements ##
 
