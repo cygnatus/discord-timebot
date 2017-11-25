@@ -1,6 +1,8 @@
 Timebot
 =======
 
+![Example output in Discord](https://cdn.glitch.com/e2c24270-97c5-4c23-9d94-6ca0054e4928%2Foutput.png?1511624557883)
+
 ## Requirements ##
 
 * A [Discord account](https://discordapp.com/register)
