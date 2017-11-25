@@ -8,12 +8,23 @@ Timebot
 
 ## Setup ##
 
+Right now, I've only allowed the bot to let me invite it, but this is how it'd work if I made the bot public in the app settings:
+
 1. Invite bot using this [invitation link][].
 2. Make sure the bot is online.
     * If not, something that wasn't your fault bugged out.
 3. Type `!timebot`.
 
 If it's working, you should see "Ready!" in the Glitch logs.
+
+## DIY bot ##
+
+1. Remix [the project][]
+2. [Register a Discord app][new-app]
+3. Fill out the basics and ignore the redirect stuff
+4. Click **Create a Bot User**
+5. Copy your client secret and paste it to `.env` in your remix
+6. Your bot's invitation link is `https://discordapp.com/oauth2/authorize?&client_id={{CLIENT_ID}}&scope=bot&permissions=0`
 
 ## Customization ##
 
@@ -36,3 +47,5 @@ If it's working, you should see "Ready!" in the Glitch logs.
 
 
 [invitation link]: https://discordapp.com/oauth2/authorize?&client_id=383941133564379136&scope=bot&permissions=0
+[the project]: https://glitch.com/~plausible-caption
+[new-app]: https://discordapp.com/developers/applications/me/create
