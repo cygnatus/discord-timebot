@@ -1,0 +1,21 @@
+{
+    "install": {
+        "include": [
+            "^package\\.json$",
+            "^\\.env$"
+        ]
+    },
+    "restart": {
+        "exclude": [
+            "\\.markdown",
+            "\\.md",
+            "\\.mdown"
+        ],
+        "include": [
+            "^assets/",
+            "\\.js$",
+            "\\.json"
+        ]
+    },
+    "throttle": 180000
+}
