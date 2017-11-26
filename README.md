@@ -49,6 +49,14 @@ If it's working, you should see "Ready!" in the Glitch logs.
 * <https://watch-json.glitch.me/>
 * <https://momentjs.com/timezone/>
 
+## Troubleshooting ##
+
+### My bot is offline ###
+
+It's probably asleep. Try waking it either by typing a command in your server or by updating some code in your Glitch project.
+
+Check out "Hosting a Bot on Glitch.com" linked above in **Resources** for more on keeping your sleepy bot awake.
+
 
 [invitation link]: https://discordapp.com/oauth2/authorize?&client_id=383941133564379136&scope=bot&permissions=0
 [the project]: https://glitch.com/~plausible-caption
