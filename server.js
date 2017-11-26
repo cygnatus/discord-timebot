@@ -18,10 +18,9 @@ bot.on("ready", () => {
 // When a message is created
 bot.on("messageCreate", (msg) => { 
     if(msg.content.includes("!timebot")) { // that reads "!timebot"
-        var now = moment();
-        var ct = now.tz("Europe/Copenhagen");
-        var et = now.tz("America/New_York");
-        var pt = now.tz("America/Los_Angeles");
+        var ct = moment().tz("Europe/Copenhagen");
+        var et = moment().tz("America/New_York");
+        var pt = moment().tz("America/Los_Angeles");
 
         bot.createMessage(msg.channel.id,
             clock.timeToEmoji(ct) + " \`" + ct.format("HH:mm z") + "\`\n" +
