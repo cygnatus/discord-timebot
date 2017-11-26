@@ -1,6 +1,18 @@
 {
   "name": "discord-timebot",
   "version": "1.2.0",
+  "description": "A Discord bot to display the current time in three Western timezones: CET, ET, and PT.",
+  "keywords": [
+    "discord"
+  ],
+  "author": {
+    "name": "Cygnatus",
+    "url": "https://cygnatus.com"
+  },
+    "repository": {
+    "type": "git",
+    "url": "git+https://github.com/cygnatus/discord-timebot.git"
+  },
   "main": "server.js",
   "scripts": {
     "start": "node server.js"
