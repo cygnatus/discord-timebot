@@ -57,6 +57,10 @@ It's probably asleep. Try waking it either by typing a command in your server or
 
 Check out "Hosting a Bot on Glitch.com" linked above in **Resources** for more on keeping your sleepy bot awake.
 
+The tricky thing about hosted bots is finding the sweet spot between poking them enough to stay awake and overworking them to the point of exhaustion.
+
+Be nice to your bots.
+
 
 [invitation link]: https://discordapp.com/oauth2/authorize?&client_id=383941133564379136&scope=bot&permissions=0
 [the project]: https://glitch.com/~plausible-caption
