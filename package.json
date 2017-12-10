@@ -9,7 +9,7 @@
     "name": "Cygnatus",
     "url": "https://cygnatus.com"
   },
-    "repository": {
+  "repository": {
     "type": "git",
     "url": "git+https://github.com/cygnatus/discord-timebot.git"
   },
